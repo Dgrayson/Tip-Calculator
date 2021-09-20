@@ -14,4 +14,4 @@ Run the app by running
 
 ### npm start
 
-![alt text](https://github.com/[dgrayson]/[Tip-calculator]/[main]/Screenshot.png?raw=true)
+![alt text](https://github.com/dgrayson/Tip-calculator/main/Screenshot.png?raw=true)
